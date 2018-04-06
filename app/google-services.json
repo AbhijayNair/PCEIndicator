@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "652185798434",
+    "firebase_url": "https://pceindicator-91ea4.firebaseio.com",
+    "project_id": "pceindicator-91ea4",
+    "storage_bucket": "pceindicator-91ea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652185798434:android:2d600fabbdadcf41",
+        "android_client_info": {
+          "package_name": "org.pceindicator.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652185798434-rbn35vu8drv3ofnaueaqn2cfe8vqj7rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.pceindicator.com",
+            "certificate_hash": "3fb4611429d8719812ae4aa6cd4f5e5b13644e6d"
+          }
+        },
+        {
+          "client_id": "652185798434-7bigkood17peqq193edjm2egt1topr8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyiTknuO4NInVSPrarqqhJPB_TDrqmOsY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652185798434-7bigkood17peqq193edjm2egt1topr8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
